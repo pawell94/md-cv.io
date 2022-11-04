@@ -1,5 +1,21 @@
-# Test markdown
-## Pawciulek
-### kocha Rybcie
+## Dane podstawowe
 
-*dupa*
+
+## Wykształcenie
+
+
+
+## Doświadczenie
+
+
+## Znajomość systemów i aplikacji
+
+
+
+## Umiejętności 
+
+
+
+## Zainteresowania
+
+
