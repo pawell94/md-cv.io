@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/modernist@v0.2.0
 title: CV
 description: 1. Paweł Patorski 
              2. Data urodzenia - 11.06.1994
