@@ -1,5 +1,11 @@
-remote_theme: pages-themes/modernist@v0.2.0
-title: CV
-description: 1. Paweł Patorski 
-             2. Data urodzenia - 11.06.1994
+theme: jekyll-theme-minimal
+logo: /assets/img/foto.png
+title: Paweł Patorski 
+description: Zajmuję się kompleksową analizą i modelowaniem procesów, których
+celem jest identyfikacja potencjałów do doskonalenia w zakresie
+rozwiązań IT. Nabyłem doświadczenie w zakresie definiowania
+wymagań klienta wewnętrznego, współpracy z developerami, wdrażania
+aplikacji webowych i desktopowych wraz z zapewnieniem procesu
+szkoleniowego. Uczestniczę także w testowaniu, raportowaniu błędów
+oraz optymalizacji wdrożonych aplikacji.
              
