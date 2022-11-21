@@ -1,8 +1,5 @@
 # Na początek kilka ogólników o życiu zawodowym... 
 
-<img title="" src="/assets/img/foto.png" width="150" height="200" />
-
-
 Zawodowo zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
 
 Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która oferuje opisane przeze mnie wyżej usługi, jak i również całą kompleksową obsługę w zakresie dostarczania rozwiązań IT. Zapraszam. 
