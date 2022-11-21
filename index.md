@@ -4,7 +4,7 @@ Zawodowo zajmuję się kompleksową analizą i modelowaniem procesów, których 
 
 Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która oferuje opisane przeze mnie wyżej usługi, jak i również całą kompleksową obsługę w zakresie dostarczania rozwiązań IT. Zapraszam. 
 
-# A prywatnie:
+# A prywatnie...
 
 Przedewszystkim **mąż** i **ojciec**.  
 
@@ -13,17 +13,16 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 
 ## Skontaktuj się ze mną, jeśli powyższy opis Cię zainteresował
 
-**Paweł Patorski**
-
 **E-mail:** pawel.patorski@magistrade.pl  
 **Tel:** 782-389-429  
 **Zajrzyj też na stronę mojej firmy:** [Magis Trade Sp. z o.o.](https://magistrade.pl)
 
+J
 
-
-## Moje wykształcenie
+## Moje wykształcenie:
 
 ### 2013-2017
+
 **Politechnika Łódzka:** *Wydział  Zarządzania i Inżynierii Produkcji*  
 **Kierunek:** *Zarządzanie i Inżynieria Produkcji*  
 **Temat pracy dyplomowej - inżynierskiej:** *Optymalizacja procesu produkcji z wykorzystaniem narzędzi Lean Manufacturing w przedsiębiorstwie z branży druku przemysłowego*  
@@ -35,8 +34,7 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 **Temat pracy dyplomowej - magisterskiej:** *Ideał człowieczeństwa w teologii usprawiedliwienia Św. Pawła*  
 
 
-
-## Doświadczenie zawodowe i realizowane projekty
+# Doświadczenie zawodowe i realizowane projekty
 
 
 ### 05.2015-07.2015
