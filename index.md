@@ -35,9 +35,8 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 **Temat pracy dyplomowej - magisterskiej:** *Ideał człowieczeństwa w teologii usprawiedliwienia Św. Pawła*  
 
 
-<h5 id="Doświadczenie-zawodowe-i-realizowane-projekty">
-Doświadczenie zawodowe i realizowane projekty
-</h5>
+
+## Doświadczenie zawodowe i realizowane projekty
 
 
 ### 05.2015-07.2015
