@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Paweł Patorski
+logo: 
+description: Realizowane projekty oraz wykorzystywane narzędzia
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
