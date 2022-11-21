@@ -1,24 +1,25 @@
 # Na początek kilka ogólników o życiu zawodowym... 
 
-Zawodowo zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań.  
+Zawodowo zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań. [Zobacz jakie projekty realizowałem](## Doświadczenie zawodowe i realizowane projekty)
 
-Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która oferuje opisane przeze mnie wyżej usługi, jak i również całą kompleksową obsługę w zakresie dostarczania rozwiązań IT. 
+Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która oferuje opisane przeze mnie wyżej usługi, jak i również całą kompleksową obsługę w zakresie dostarczania rozwiązań IT. Zapraszam. 
 
 # A prywatnie:
 
-Przedewszystkim **mąż** i **ojciec**. W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **nowe technologie**,**rynki finansowe**,**programowanie**,**historia XX wieku** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :)  
+Przedewszystkim **mąż** i **ojciec**.  
 
-Z bardziej aktywnych zainteresowań, uwielbiam szeroko pojętą **turystykę**, a w szczególności: **TURYSTYKĘ GÓRSKĄ**.
+W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z  bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
 
 
-## Skontaktuj się ze mną, jeśli powyższy opis już Cię zainteresował, ale poczytaj niżej o projektach, której realizowałem.
+## Skontaktuj się ze mną, jeśli powyższy opis Cię zainteresował
 
 **Paweł Patorski**
 
 **E-mail:** pawel.patorski@magistrade.pl  
-**Tel:** 782-389-429
-**Zajrzyj też na stronę mojej firmy:***https://magistrade.pl
+**Tel:** 782-389-429  
+**Zajrzyj też na stronę mojej firmy:** [Magis Trade Sp. z o.o.](https://magistrade.pl)
 
+### Zapoznaj się jednak bardziej ze mną
 
 
 ## Moje wykształcenie
