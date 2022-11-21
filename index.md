@@ -1,4 +1,4 @@
-<img title="" src="/assets/img/foto.png" width="120" height="200">
+<img title="" src="/assets/img/foto.png" width="150" height="200">
 
 # Na początek kilka ogólników o życiu zawodowym... 
 
