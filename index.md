@@ -44,11 +44,11 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Projekt     | Wykorzystywane narzędzia                                                                                   |
 | ----------- | -----------                                       |
 | Wdrożenie systemu do zarządzania projektami                     | Redmine, Jira                                          |
-| Automatyzacja wydruku etykiet produktowych                      | Python, NiceLabel, Redmine, SQL                        |
-| Automatyzacja wydruku etykiet produktowych                      | Text                                                   |
-| Automatyzacja wydruku etykiet produktowych                      | Text                                                   |
-| Automatyzacja wydruku etykiet produktowych                      | Text                                                   | 
-| Automatyzacja wydruku etykiet produktowych                      | Text                                                   |
+| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL              |
+| Wdrożenie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                         |
+| Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine|
+| Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0    | 
+| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova 365, Excel, BPMN 2.0, UML, Draw.io, MS Visio|
 
 ### 05.2015-07.2015
 #### Philips Lighting Poland S.A/Lumileds  
