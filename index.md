@@ -2,7 +2,7 @@
 
 **Paweł Patorski**
 
-**E-mail:** pawel.patorski@magistrade.pl
+**E-mail:** pawel.patorski@magistrade.pl  
 **Tel:** 782-389-429
 
 
