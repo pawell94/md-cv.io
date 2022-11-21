@@ -22,6 +22,20 @@
 
 ## Doświadczenie zawodowe i realizowane projekty
 
+### 05.2015-07.2015
+#### Philips Lighting Poland S.A/Lumileds  
+
+* Analiza problemów powstających podczas procesów zakupowych
+* Udział w projektach usprawniających działanie magazynu części zamiennych (tworzenie bazy danych komponentów opartą o kody QR)
+##### Wykorzystywane narzędzia
+* MS Access
+* MS Excel
+* MS Visio
+
+
+
+
+
 ### 
 
 
