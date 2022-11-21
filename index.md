@@ -1,6 +1,8 @@
-# Dane kontaktowe
 
-## Paweł Patorski
+
+## Dane kontaktowe
+
+**Paweł Patorski**
 
 **E-mail:** pawel.patorski@magistrade.pl  
 **Tel:** 782-389-429
@@ -22,15 +24,19 @@
 
 ## Doświadczenie zawodowe i realizowane projekty
 
+### 0
+
 ### 05.2015-07.2015
 #### Philips Lighting Poland S.A/Lumileds  
 
 * Analiza problemów powstających podczas procesów zakupowych
 * Udział w projektach usprawniających działanie magazynu części zamiennych (tworzenie bazy danych komponentów opartą o kody QR)
-##### Wykorzystywane narzędzia
+##### Wykorzystywane narzędzia metody i aplikacje: 
 * MS Access
 * MS Excel
 * MS Visio
+* AutoCAD
+* SAP R3 - moduł magazynowy
 
 
 
