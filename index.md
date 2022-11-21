@@ -19,7 +19,6 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 **Tel:** 782-389-429  
 **Zajrzyj też na stronę mojej firmy:** [Magis Trade Sp. z o.o.](https://magistrade.pl)
 
-### Zapoznaj się jednak bardziej ze mną
 
 
 ## Moje wykształcenie
@@ -35,16 +34,20 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 **Kierunek:** Studia teologiczno-filozoficzne  
 **Temat pracy dyplomowej - magisterskiej:** *Ideał człowieczeństwa w teologii usprawiedliwienia Św. Pawła*  
 
-## Doświadczenie zawodowe i realizowane projekty
 
-### 
+<h5 id="Doświadczenie-zawodowe-i-realizowane-projekty">
+Doświadczenie zawodowe i realizowane projekty
+</h5>
+
 
 ### 05.2015-07.2015
 #### Philips Lighting Poland S.A/Lumileds  
 
 * Analiza problemów powstających podczas procesów zakupowych
-* Udział w projektach usprawniających działanie magazynu części zamiennych (tworzenie bazy danych komponentów opartą o kody QR)
-##### Wykorzystywane narzędzia metody i aplikacje: 
+* Udział w projektach usprawniających działanie magazynu części zamiennych (tworzenie bazy danych komponentów opartą o kody QR)  
+
+##### Wykorzystywane narzędzia metody i aplikacje:  
+
 * MS Access
 * MS Excel
 * MS Visio
