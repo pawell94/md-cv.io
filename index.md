@@ -65,7 +65,8 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Wdrażanie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                 |
 | Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine|
 | Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0            | 
-| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.    |
+
+| Wdrażanie rejestru szkoleń i kompetencji pracowniczych          | Redmine, Enova365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.    |
 
 ### 09.2017 - 12.2020
 #### AQ Wiring Systems Sp. z o.o. - Inżynier Produktu
