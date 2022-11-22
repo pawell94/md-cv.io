@@ -6,7 +6,7 @@ Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która o
 
 # A prywatnie...
 
-Przedewszystkim **mąż** i **ojciec**.  
+Przedewszystkim **mąż**...
 
 W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z  bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
 
@@ -16,6 +16,9 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 **E-mail:** pawel.patorski@magistrade.pl  
 **Tel:** 782-389-429  
 **Zajrzyj też na stronę mojej firmy:** [Magis Trade Sp. z o.o.](https://magistrade.pl)
+
+...lub czytaj dalej.
+
 
 ## Moje wykształcenie:
 
@@ -34,21 +37,38 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 
 # Doświadczenie zawodowe i realizowane projekty
 
-### 01.2021-obecnie
+### 01.2021 - obecnie
 #### AQ Wiring Systems Sp. z o.o.
 
 * Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
 
-##### Projekty: 
+##### Realizowane projekty: 
 
-| Projekt     | Wykorzystywane narzędzia                                                                                   |
-| ----------- | -----------                                       |
-| Wdrożenie systemu do zarządzania projektami                     | Redmine, Jira                                          |
-| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL              |
-| Wdrożenie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                         |
+| Projekt                                                         | Wykorzystywane narzędzia                                       |
+| -----------                                                     | -----------                                                    |
+| Wdrożenie systemu do zarządzania projektami                     | Redmine, Jira                                                  |
+| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL                      |
+| Wdrożenie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                 |
 | Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine|
-| Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0    | 
-| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova 365, Excel, BPMN 2.0, UML, Draw.io, MS Visio|
+| Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0            | 
+| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova 365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.   |
+
+
+### 08.2021 - obecnie
+#### Medical Tribune Sp. z o.o.
+
+* Automatyzacja procesów biznesowych, analiza i mapowanie procesów biznesowwych, prowadzenie projektów IT, wdrażanie aplikacji, współpraca z dostawcami zewnętrznymi oprogramowania (developerami), zarządzanie backlogiem produktu, administracja systemów i aplikacji, prowadzenie szkoleń.
+
+##### Realizowane projekty:
+
+| Projekt                                                                            | Wykorzystywane narzędzia                                        |
+| -----------                                                                        | -----------                                                     |
+| Wdrażanie systemu do obiegu dokumentów, przepływu pracy i podpisywania dokumentów  | Amodit, Excel, MS Planner, Jira, Draw.io, Miro, BPMN, JavaScript|                                   
+| Wdrożenie aplikacji do rejestracji i obsługi bazy danych produktów                 | Git, SQL, MySQL WorkBench, NextCloud                            |
+| Wdrażanie portalu kadrowego - portal pracownika                                    | MS Planner, Jira                                                |                                                     
+| Rozbudowa systemu kadrowo-płacowego                                                | MS Planner, Jira, Komax 2.0, SQL                                | 
+
+
 
 ### 05.2015-07.2015
 #### Philips Lighting Poland S.A/Lumileds  
