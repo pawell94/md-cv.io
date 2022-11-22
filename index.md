@@ -31,8 +31,8 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 ### 2015-2021
 
 **Akademia Katolicka w Warszawie**   
-**Kierunek:** Studia teologiczno-filozoficzne  
-**Temat pracy dyplomowej - magisterskiej:** *Ideał człowieczeństwa w teologii usprawiedliwienia Św. Pawła*  
+**Kierunek:** Jednolite magisterskie studia teologiczno-filozoficzne  - 6 letnie 
+**Temat pracy dyplomowej - magisterskiej:** *Ideał człowieczeństwa w teologii usprawiedliwienia Pawła z Tarsu*  
 
 
 # Doświadczenie zawodowe i realizowane projekty
