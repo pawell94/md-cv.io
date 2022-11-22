@@ -6,7 +6,7 @@ Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która o
 
 # A prywatnie...
 
-Przedewszystkim **mąż**...
+Przede wszystkim **mąż**...
 
 W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z  bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
 
@@ -37,23 +37,6 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 
 # Doświadczenie zawodowe i realizowane projekty
 
-### 01.2021 - obecnie
-#### AQ Wiring Systems Sp. z o.o.
-
-* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
-
-##### Realizowane projekty: 
-
-| Projekt                                                         | Wykorzystywane narzędzia                                       |
-| -----------                                                     | -----------                                                    |
-| Wdrożenie systemu do zarządzania projektami                     | Redmine, Jira                                                  |
-| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL                      |
-| Wdrożenie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                 |
-| Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine|
-| Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0            | 
-| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova 365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.   |
-
-
 ### 08.2021 - obecnie
 #### Medical Tribune Sp. z o.o.
 
@@ -66,8 +49,37 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Wdrażanie systemu do obiegu dokumentów, przepływu pracy i podpisywania dokumentów  | Amodit, Excel, MS Planner, Jira, Draw.io, Miro, BPMN, JavaScript|                                   
 | Wdrożenie aplikacji do rejestracji i obsługi bazy danych produktów                 | Git, SQL, MySQL WorkBench, NextCloud                            |
 | Wdrażanie portalu kadrowego - portal pracownika                                    | MS Planner, Jira                                                |                                                     
-| Rozbudowa systemu kadrowo-płacowego                                                | MS Planner, Jira, Komax 2.0, SQL                                | 
+| Rozbudowa systemu kadrowo-płacowego                                                | MS Planner, Jira, Komax 2.0, SQL, Notepad ++, Git, TurtoiseGit  |
 
+### 01.2021 - obecnie
+#### AQ Wiring Systems Sp. z o.o.
+
+* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
+
+##### Realizowane projekty: 
+
+| Projekt                                                         | Wykorzystywane narzędzia                                       |
+| -----------                                                     | -----------                                                    |
+| Wdrożenie systemu do zarządzania projektami                     | Redmine, Jira, Monitor ERP                                     |
+| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL                      |
+| Wdrażanie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                 |
+| Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine|
+| Wdrożenie rejestru elektronicznej dokumentacji klienckiej       | Git, Redmine, Markdown, Bash, Monitor ERP, BPMN 2.0            | 
+| Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.    |
+
+### 09.2017 - 12.2020
+#### AQ Wiring Systems Sp. z o.o.
+
+* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
+
+##### Realizowane projekty: 
+
+| Projekt                                                         | Wykorzystywane narzędzia                                               |
+| -----------                                                     | -----------                                                            |
+| Tworzenie rysunków technicznych (instrukcji montażu) i struktury produktów na podstawie dokumentacji klienta| Excel, Monitor ERP, AutoCAD|                         
+| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL                              |
+| Wdrażanie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                         |
+| Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine        |
 
 
 ### 05.2015-07.2015
