@@ -97,14 +97,14 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 ## 08.2015 - 12.2016
 #### Bosch and Siemens Home Appliances Sp. z o.o. - Staż w Dziale Rozwoju Dostawców
 
-* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
+* Mapowanie stanu obecnego i przyszłego procesów produkcyjnych (Value Stream Mapping - VSM & Value Stream Design - VSD), udział w projektach optymalizacyjnych u klientów, organizacja szkoleń i eventów dla firmy.
 
 ##### Realizowane projekty: 
 
-| Projekt                                                         | Wykorzystywane narzędzia                                               |
-| -----------                                                     | -----------                                                            |
-| Tworzenie rysunków technicznych (instrukcji montażu) i struktury produktów na podstawie dokumentacji klienta| Excel, Monitor ERP, AutoCAD|                         
-| Wprowadzenie algorytmu do kalkulacji długości skręcanych przewodów| Excel, Monitor ERP                                                   |
+| Projekt                                                          | Wykorzystywane narzędzia                                                    |
+| -----------                                                      | -----------                                                                 |
+| Zwiększenie produktywności dostawcy z zakresie procesu tampodruku|VSM, SMED, 5S, Diagram Ishikavy, Metoda Pareto-Lorenza, OEE, Excel, AutoCAD, MS Visio|                         
+| Zwiększenie produktywności dostawcy w zakresie procesu wtrysku z tworzyw sztuczych| VSM, Excel, MS Visio, Wykres Spaghetti                            |                     
 
 
 
@@ -113,35 +113,10 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 #### Philips Lighting Poland S.A/Lumileds - Staż w Dziale Zakupów/Magazynie części zamiennych
 
 * Analiza problemów powstających podczas procesów zakupowych
-##### Projekty:
-* Udział w projektach usprawniających działanie magazynu części zamiennych (tworzenie bazy danych komponentów opartą o kody QR)  
-
-##### Wykorzystywane narzędzia metody i aplikacje:  
-
-* MS Access
-* MS Excel
-* MS Visio
-* AutoCAD
-* SAP R3 - moduł magazynowy
+##### Realizowane projekty:
 
 
-
-
-
-### 
-
-
-
-
-
-## Znajomość systemów i aplikacji
-
-
-
-## Umiejętności 
-
-
-
-## Zainteresowania
-
+| Projekt                                                          | Wykorzystywane narzędzia                                                      |
+| -----------                                                      | -----------                                                                   |
+| Udział w projekcie usprawniającym działanie magazynu - tworzenie bazy danych komponentów w oparciu o kody QR|MS Access, MS Excel, AutoCAD, SAP R3|                         
 
