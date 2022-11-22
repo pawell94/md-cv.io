@@ -38,7 +38,7 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 # Doświadczenie zawodowe i realizowane projekty
 
 ### 08.2021 - obecnie
-#### Medical Tribune Sp. z o.o.
+#### Medical Tribune Sp. z o.o. - Specjalista ds. Automatyzacji Procesów
 
 * Automatyzacja procesów biznesowych, analiza i mapowanie procesów biznesowwych, prowadzenie projektów IT, wdrażanie aplikacji, współpraca z dostawcami zewnętrznymi oprogramowania (developerami), zarządzanie backlogiem produktu, administracja systemów i aplikacji, prowadzenie szkoleń.
 
@@ -52,7 +52,7 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Rozbudowa systemu kadrowo-płacowego                                                | MS Planner, Jira, Komax 2.0, SQL, Notepad ++, Git, TurtoiseGit  |
 
 ### 01.2021 - obecnie
-#### AQ Wiring Systems Sp. z o.o.
+#### AQ Wiring Systems Sp. z o.o. - Specjalista ds. Ciągłego doskonalenia
 
 * Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
 
@@ -68,7 +68,7 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Wdrażanie rejestru szkoleń i kompetencji                        | Redmine, Enova365, Excel, BPMN 2.0, UML, Draw.io, MS Visio.    |
 
 ### 09.2017 - 12.2020
-#### AQ Wiring Systems Sp. z o.o.
+#### AQ Wiring Systems Sp. z o.o. - Inżynier Produktu
 
 * Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
 
@@ -77,13 +77,40 @@ W wolnych chwilach pasjonujący się między innymi w takich obszarach jak: **no
 | Projekt                                                         | Wykorzystywane narzędzia                                               |
 | -----------                                                     | -----------                                                            |
 | Tworzenie rysunków technicznych (instrukcji montażu) i struktury produktów na podstawie dokumentacji klienta| Excel, Monitor ERP, AutoCAD|                         
-| Automatyzacja wydruku etykiet produktowych                      | Python, VBScript, NiceLabel, Redmine, SQL                              |
-| Wdrażanie aplikacji do rejestrowania błędów produkcyjnych       | Redmine, Excel                                                         |
-| Wdrożenie aplikacji backendowej wspomagającej zarządzanie projektami i synchronizacje z systemem ERP| Monitor ERP, Excel, Redmine        |
+| Wprowadzenie algorytmu do kalkulacji długości skręcanych przewodów| Excel, Monitor ERP                                                   |
+| Prowadzenie projektu - projektowanie wiązek elektrycznych dla klienta z branży pojazdów samojezdnych|Monitor ERP, AutoCAD, Excel         |                                                    
+| Wdrażanie i prowadzenie projektu dostarczenia nowego oprogramowania inżynierskiego CAD|E3 Zuken, Arcadia, AutoCAD, Excel, Monitor ERP    |
+
+## 01.2017 - 07.2017
+#### Hutchinson Poland - Staż w dziale Utrzymania i Rozwijania Procesów
+
+* Projektowanie rozwiązań technicznych w systemie CAD, zbieranie i prezentacja danych, tworzenie raportów z odpadów produkcyjnych
+
+##### Realizowane projekty: 
+
+| Projekt                                                         | Wykorzystywane narzędzia                                               |
+| -----------                                                     | -----------                                                            |
+| Redukcja odpadu produkcyjnego                                   | Excel, Pareto, Diagram Ishikavy, 5Why, OEE                             |                       
+| Planowanie layoutu hali - planowanie parku maszynowego          | Excel, AutoCAD                                                         |
+| Dostarczenie mobilnych wózków na materiał produkcyjny           | AutoCAD, AutoDesk Inventor                                             |
+
+## 08.2015 - 12.2016
+#### Bosch and Siemens Home Appliances Sp. z o.o. - Staż w Dziale Rozwoju Dostawców
+
+* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
+
+##### Realizowane projekty: 
+
+| Projekt                                                         | Wykorzystywane narzędzia                                               |
+| -----------                                                     | -----------                                                            |
+| Tworzenie rysunków technicznych (instrukcji montażu) i struktury produktów na podstawie dokumentacji klienta| Excel, Monitor ERP, AutoCAD|                         
+| Wprowadzenie algorytmu do kalkulacji długości skręcanych przewodów| Excel, Monitor ERP                                                   |
+
+
 
 
 ### 05.2015-07.2015
-#### Philips Lighting Poland S.A/Lumileds  
+#### Philips Lighting Poland S.A/Lumileds - Staż w Dziale Zakupów/Magazynie części zamiennych
 
 * Analiza problemów powstających podczas procesów zakupowych
 ##### Projekty:
