@@ -20,7 +20,7 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 ...lub czytaj dalej. :)
 
 
-## Moje wykształcenie:
+# Moje wykształcenie:
 
 ### 2013-2017
 
@@ -108,8 +108,6 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 | Zwiększenie produktywności dostawcy w zakresie procesu wtrysku z tworzyw sztuczych| VSM, Excel, MS Visio, Wykres Spaghetti                            |                     
 
 
-
-
 ### 05.2015-07.2015
 #### Philips Lighting Poland S.A/Lumileds - Staż w Dziale Zakupów/Magazynie części zamiennych
 
@@ -121,3 +119,4 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 | -----------                                                      | -----------                                                                   |
 | Udział w projekcie usprawniającym działanie magazynu - tworzenie bazy danych komponentów w oparciu o kody QR|MS Access, MS Excel, AutoCAD, SAP R3|                         
 
+### Jeśli chcesz ze mną współpracować, to zapraszam do kontaktu. :)
