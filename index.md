@@ -1,8 +1,7 @@
 # Na początek kilka ogólników o życiu zawodowym... 
 
-Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
+Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Współpracuję z interesariuszami na różnych szczeblach biznesu. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów od strony client. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
 
-Prowadzę równeż i rozwijam własną [firmę](https://magistrade.pl), która oferuje opisane przeze mnie wyżej usługi, jak i również całą kompleksową obsługę w zakresie dostarczania rozwiązań IT. Zapraszam. 
 
 # A prywatnie...
 
@@ -15,7 +14,6 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 
 **E-mail:** pawel.patorski@magistrade.pl  
 **Tel:** 782-389-429  
-**Zajrzyj też na stronę mojej firmy:** [Magis Trade Sp. z o.o.](https://magistrade.pl)
 
 ...lub czytaj dalej. :)
 
@@ -40,7 +38,7 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 ### 08.2021 - obecnie
 #### Medical Tribune Sp. z o.o. - Specjalista ds. Automatyzacji Procesów
 
-* Automatyzacja procesów biznesowych, analiza i mapowanie procesów biznesowwych, prowadzenie projektów IT, wdrażanie aplikacji, współpraca z dostawcami zewnętrznymi oprogramowania (developerami), zarządzanie backlogiem produktu, administracja systemów i aplikacji, prowadzenie szkoleń.
+* Automatyzacja procesów biznesowych, analiza i mapowanie procesów biznesowwych, prowadzenie projektów IT, definiowanie wymagań funkcjonalnych i niefunkcjonalnych, wdrażanie aplikacji, współpraca z dostawcami zewnętrznymi oprogramowania (developerami), zarządzanie backlogiem produktu, administracja systemów i aplikacji, prowadzenie szkoleń.
 
 ##### Realizowane projekty:
 
@@ -54,7 +52,7 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 ### 01.2021 - obecnie
 #### AQ Wiring Systems Sp. z o.o. - Specjalista ds. Ciągłego doskonalenia
 
-* Mapowanie procesów biznesowych, definiowanie problemów, prowadzenie i udział w projektach IT, zbieranie i przekazywanie wymagań developerom, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
+* Analiza i mapowanie procesów biznesowych, współpraca z interesariuszami na różnych szczeblach biznesu, definiowanie problemów i potencjału do doskonalenia w procesach, udział i prowadzenie projektów IT, zbieranie wymagań od biznesu, definiowanie wymagań funkcjonalnych i niefunkcjonalnych, testowanie aplikacji, administracja systemów i aplikacji, zarządzanie backlogiem produktu, prowadzenie szkoleń, przeprowadzanie audytów wewnętrznych.
 
 ##### Realizowane projekty: 
 
