@@ -1,4 +1,4 @@
-![Tak wyglądam](http://url/to/img.png)
+![Tak wyglądam](https://github.com/pawell94/md-cv.io/blob/main/assets/img/foto.png)
 
 
 # Na początek kilka ogólników o życiu zawodowym... 
