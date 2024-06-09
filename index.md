@@ -1,13 +1,15 @@
 # Na początek kilka ogólników o życiu zawodowym... 
 
-Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Współpracuję z interesariuszami na różnych szczeblach biznesu. Mam doświadczenie w zakresie utrzymania i administracji wdrożonych aplikacji i systemów od strony client. Biorę udział również w testowaniu, raportowaniu błędów oraz optymalizacji wdrożonych rozwiązań. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
+Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Współpracuję z interesariuszami na różnych szczeblach biznesu. Mam doświadczenie w zakresie, konfiguracji, utrzymania i administracji wdrożonych aplikacji i systemów od strony biznesowej. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
+
+Zadania w wymienionych obszarach realizuję w ramach mojej firmy Magis Trade Sp. z o.o. https://magistrade.pl, której jestem głównym udziałowcem lub jako Freelancer. Chętnie zatem podejmę współpracę w ramach prowadzonych przeze mnie działalności. 
 
 
 # A prywatnie...
 
-Przede wszystkim **mąż**...
+Przede wszystkim **mąż** i **ojciec**. 
 
-W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku**, **nauka języków** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z  bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
+W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku**, **nauka języków** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
 
 
 ## Skontaktuj się ze mną, jeśli powyższy opis Cię zainteresował
@@ -35,7 +37,18 @@ W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe te
 
 # Doświadczenie zawodowe i realizowane projekty
 
-### 08.2021 - obecnie
+### 04.2023 - obecnie
+#### Krajowa Izba Radców Prawnych 
+
+* Analiza biznesowo-systemowa, testowanie aplikacji, projektowanie procesu i konfiguracja aplikacji, doradztwo w zakresie wykorzystania technologii informatycznych.
+
+
+### 03.2023 - obecnie
+#### Polskie Porty Lotnicze S.A - Lotnisko Chopina w Warszawie
+
+* Analiza biznesowo-systemowa na potrzeby aplikacji i systemów lotniskowych
+
+### 08.2021 - 02.2023
 #### Medical Tribune Sp. z o.o. - Specjalista ds. Automatyzacji Procesów
 
 * Automatyzacja procesów biznesowych, analiza i mapowanie procesów biznesowwych, prowadzenie projektów IT, definiowanie wymagań funkcjonalnych i niefunkcjonalnych, wdrażanie aplikacji, współpraca z dostawcami zewnętrznymi oprogramowania (developerami), zarządzanie backlogiem produktu, administracja systemów i aplikacji, prowadzenie szkoleń.
