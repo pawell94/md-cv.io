@@ -9,7 +9,7 @@ Zadania w wymienionych obszarach realizuję w ramach mojej firmy Magis Trade Sp.
 
 Przede wszystkim **mąż** i **ojciec**. 
 
-W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe technologie**, **rynki finansowe**, **programowanie**, **historia XX wieku**, **nauka języków** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
+W wolnych chwilach pasjonujący się aktualnie w takich obszarach jak: **nowe technologie**, **ekonomia i rynki finansowe**, **historia XX wieku**, **nauka języków** i... szukający ciągle nowych "zajawek" i obszarów do nauki. :) a z bardziej aktywnych zainteresowań, uwielbiam turystykę górską.  
 
 
 ## Skontaktuj się ze mną, jeśli powyższy opis Cię zainteresował
