@@ -1,8 +1,7 @@
-# Na początek kilka ogólników...
-
 <p align="center">
   <img src="https://github.com/pawell94/md-cv.io/blob/main/assets/img/foto.png" width="350" title="Tak wyglądam">
 </p>
+# Na początek kilka ogólników...
 
 Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Współpracuję z interesariuszami na różnych szczeblach biznesu. Mam doświadczenie w zakresie, konfiguracji, utrzymania i administracji wdrożonych aplikacji i systemów od strony biznesowej. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
 
