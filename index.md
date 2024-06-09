@@ -1,8 +1,11 @@
+![Tak wyglądam](http://url/to/img.png)
+
+
 # Na początek kilka ogólników o życiu zawodowym... 
 
 Zajmuję się kompleksową analizą i modelowaniem procesów, których celem jest identyfikacja potencjałów do doskonalenia w zakresie rozwiązań IT. Nabyłem doświadczenie w obszarze definiowania wymagań klienta wewnętrznego, współpracy z developerami, wdrażania aplikacji webowych oraz desktopowych wraz z zapewnieniem procesu szkoleniowego. Współpracuję z interesariuszami na różnych szczeblach biznesu. Mam doświadczenie w zakresie, konfiguracji, utrzymania i administracji wdrożonych aplikacji i systemów od strony biznesowej. [Zobacz jakie projekty realizowałem](#Doświadczenie-zawodowe-i-realizowane-projekty).
 
-Zadania w wymienionych obszarach realizuję w ramach mojej firmy Magis Trade Sp. z o.o. https://magistrade.pl, której jestem głównym udziałowcem lub jako Freelancer. Chętnie zatem podejmę współpracę w ramach prowadzonych przeze mnie działalności. 
+Zadania w wymienionych obszarach realizuję jako Freelancer lub w ramach mojej firmy Magis Trade Sp. z o.o. [Zobacz stronę naszej firmy](https://magistrade.pl), której jestem głównym udziałowcem. Chętnie zatem podejmę współpracę w ramach prowadzonych przeze mnie działalności. 
 
 
 # A prywatnie...
